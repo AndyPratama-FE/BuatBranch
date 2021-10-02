@@ -1,7 +1,1 @@
-Ini bagian main
-
-awal
-
-# Hello Indonesia
-
-akhir
+ini hello world
