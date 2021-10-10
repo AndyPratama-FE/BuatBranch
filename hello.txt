@@ -1,5 +1,3 @@
 ini hello world
 
 mencoba menambahkan pembaruan deskripsi
-
-mencoba pull request melalui fork
