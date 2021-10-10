@@ -2,9 +2,9 @@ ini hello world
 
 mencoba menambahkan pembaruan deskripsi
 
+update squash 1
 
-buat squash 1
+update squash 2
 
-buat squash 2
+update squash 3
 
-buat squash 3
